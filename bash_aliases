@@ -1,0 +1,1 @@
+/home/za917/dotfiles/.bash_aliases
